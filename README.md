@@ -1,1 +1,1 @@
-# Exam DH
+# Exam Digital Humanities
