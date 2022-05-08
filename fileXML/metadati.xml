@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione>
+	<item n="1" id="100031">
+		<genere>NOTATED MUSIC</genere>
+		<titolo-item>Image 1 of [Tracts for Good Friday].</titolo-item>
+		<immagine src="canto-liturgico.png"/>
+		<metadati>
+			<titolo-opera>[Tracts for Good Friday]</titolo-opera>
+			<autore>Catholic Church.</autore>
+			<data>[10--]</data>
+			<identificativo tipo="digitale">https://hdl.loc.gov/loc.music/musemnotation.100031</identificativo>
+			<identificativo tipo="permalink">https://lccn.loc.gov/2010563311</identificativo>
+			<supporto>[1] leaf of ms. music ; 32 cm.</supporto>
+			<segnatura>2010563311</segnatura>
+			<soggetti>
+				<termine n="1">Good Friday music</termine>
+				<termine n="2">Antiphons (Music)</termine>
+				<termine n="3">Gregorian chants</termine>
+			</soggetti>
+		</metadati>
+	</item>
+</collezione>

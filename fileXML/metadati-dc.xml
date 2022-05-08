@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="collezione">
+	<item n="1" xml:id="collezione-100031">
+		<genere>NOTATED MUSIC</genere>
+		<titolo-item>Image 1 of [Tracts for Good Friday].</titolo-item>
+		<immagine src="canto-liturgico.png"/>
+		<metadati>
+			<dc:title>[Tracts for Good Friday]</dc:title>
+			<creator>Catholic Church.</creator>
+			<dc:date>[10--]</dc:date>
+			<dc:identifier tipo="digitale">https://hdl.loc.gov/loc.music/musemnotation.100031</dc:identifier>
+			<dc:identifier tipo="permalink">https://lccn.loc.gov/2010563311</dc:identifier>
+			<dc:format>[1] leaf of ms. music ; 32 cm.</dc:format>
+			<dc:identifier>2010563311</dc:identifier>
+			<dc:subject n="1">Good Friday music</dc:subject>
+			<dc:subject n="2">Antiphons (Music)</dc:subject>
+			<dc:subject n="3">Gregorian chants</dc:subject>
+			<dc:rights>The contents of the Library of Congress 10th-16th Century Liturgical Chants Collection are in the public domain and are free to use and reuse.</dc:rights>
+			<dc:language>Latin</dc:language>	
+		</metadati>
+	</item>
+</collezione>
